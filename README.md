@@ -24,7 +24,7 @@ install.packages("taskscheduleR", repos = "http://www.datatailor.be/rcube", type
 2. Download Tweets from previous 6-7 days and limit the number of tweets searched by using 'n='
 3. Visualize the tweets by the time of day with barplot and ggplot
 4. Set up an auto-email and generate threshold
--For example, if the number of Tweets returned by an individual's search is over 20, he or she will receive an auto-email.
+* For example, if the number of Tweets returned by an individual's search is over 20, he or she will receive an auto-email.
 
 ## Author
 
